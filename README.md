@@ -2,7 +2,7 @@
 
 ![A header that says How Many stars then a slider then some text and finally many yellow stars](screenshot.png)
 
-A star rating app,
+A star rating app.
 
 ## Getting Started
 
