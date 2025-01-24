@@ -6,7 +6,7 @@ function formattedRating(rating: number): number {
 }
 export default function App() {
   const [rating, setRating] = React.useState<number>(0.5);
-  const [numberOfStars, setNumberOfStars] = React.useState<number>(80);
+  const [numberOfStars, setNumberOfStars] = React.useState<number>(5);
 
   return (
     <div style={{
